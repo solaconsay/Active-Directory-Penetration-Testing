@@ -57,7 +57,7 @@ The test environment includes:
 
 - **DC1**: Domain Controller for `FAMILYGUY.local`
 - **PC1 / PC2**: Domain-joined clients with local admin misconfigurations
-- **Attacker VM**: Kali/Parrot with all tools installed
+- **Attacker VM**: Parrot with all tools installed
 - **Hack The Box AD VM**: External closed-box test environment
 
 ## 📄 Structure
